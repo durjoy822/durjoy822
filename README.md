@@ -1,4 +1,4 @@
-<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding logo" width="100%">
+
 <h1 align="center">Hi 👋, I'm Nr Durjoy</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
