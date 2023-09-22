@@ -1,22 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17304
-Fork on GitHub
-4989
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
-<h1 align="center">Hi 👋, I'm Md Nayem Hossain</h1>
-<h3 align="center">I'm a Backend Developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durjoy822&label=Profile%20views&color=0e75b6&style=flat" alt="durjoy822" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durjoy822" alt="durjoy822" /></a> </p>
