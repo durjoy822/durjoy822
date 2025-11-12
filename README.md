@@ -11,70 +11,56 @@
 
 ## 🧠 Tech Stack
 
-<table align="center" width="100%" style="border-collapse: collapse;">
-  <tr>
-    <!-- Left Column -->
-    <td width="50%" valign="top" style="padding: 10px;">
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue,alpinejs,jquery" />
+</p>
 
-      <h3 align="center">🎨 Frontend Development</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue,alpinejs,jquery" />
-      </p>
+### 🧪 Testing Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel%20Dusk-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PestPHP-FF3366?style=for-the-badge&logo=pestphp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHPUnit-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-      <h3 align="center">🧪 Testing Frameworks</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Laravel%20Dusk-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/PestPHP-FF3366?style=for-the-badge&logo=pestphp&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHPUnit-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      </p>
+### 🧰 Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite,webpack,postman,eslint,npm,yarn,axios,git,github,gitlab,vscode" />
+</p>
 
-      <h3 align="center">🧰 Development Tools</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=vite,webpack,postman,eslint,npm,yarn,axios,git,github,gitlab,vscode" />
-      </p>
+### ⚙️ CI/CD & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</p>
 
-      <h3 align="center">⚙️ CI/CD & DevOps</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-      </p>
+### 🖥️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+  <img src="https://img.shields.io/badge/Livewire-E83E8C?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/FilamentPHP-8B5CF6?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-    </td>
+### 💾 Databases & Cloud Hosting
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/cPanel-F46A2A?style=for-the-badge&logo=cpanel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel%20Forge-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
 
-    <!-- Right Column -->
-    <td width="50%" valign="top" style="padding: 10px;">
+### 🧩 Operating Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-      <h3 align="center">🖥️ Backend Development</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=php,laravel" />
-        <img src="https://img.shields.io/badge/Livewire-E83E8C?style=for-the-badge&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/FilamentPHP-8B5CF6?style=for-the-badge&logo=php&logoColor=white" />
-      </p>
-
-      <h3 align="center">💾 Databases & Cloud Hosting</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=mysql" />
-        <img src="https://img.shields.io/badge/cPanel-F46A2A?style=for-the-badge&logo=cpanel&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" />
-        <img src="https://img.shields.io/badge/Laravel%20Forge-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      </p>
-
-      <h3 align="center">🧩 Operating Systems</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      </p>
-
-      <h3 align="center">🎨 Design & Productivity</h3>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=figma,photoshop,phpstorm" />
-      </p>
-
-    </td>
-  </tr>
-</table>
+### 🎨 Design & Productivity
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,phpstorm" />
+</p>
 
 ---
 
@@ -107,3 +93,7 @@
 ---
 
 <h3 align="center">🔥 "Code. Create. Deploy. Repeat." 🔥</h3>
+
+---
+
+⭐ **From [Md Nayem Hossain](https://github.com/mdnayemhossain)**
