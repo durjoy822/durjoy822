@@ -1,7 +1,7 @@
 <!-- 🌟 Md Nayem Hossain - GitHub Profile README 🌟 -->
 
 <h1 align="center">Hi 👋, I'm Md Nayem Hossain</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer (Laravel Based)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdnayemhossain&label=Profile%20views&color=0e75b6&style=flat" alt="mdnayemhossain" />
@@ -10,17 +10,17 @@
 ---
 
 ### 💻 Backend
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite" alt="Backend Skills" />
 </p>
 
 ### 🎨 Frontend
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,vue" alt="Frontend Skills" />
 </p>
 
 ### ⚙️ Tools & Platforms
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma" alt="Tools" />
 </p>
 
@@ -38,17 +38,19 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnayemhossain&layout=compact&theme=radical" alt="Top Languages" />
       </td>
     </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnayemhossain&theme=radical" alt="Nayem's GitHub Streak" />
+      </td>
+    </tr>
   </table>
-
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnayemhossain&theme=radical" alt="Nayem's streak" />
 </div>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
@@ -59,11 +61,4 @@
     <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
   </a>
 </p>
-
----
-
 <h3 align="center">🔥 "Code. Create. Deploy. Repeat." 🔥</h3>
-
----
-
-⭐ **From [Md Nayem Hossain](https://github.com/mdnayemhossain)**
