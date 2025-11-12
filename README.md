@@ -1,20 +1,10 @@
 <!-- 🌟 Md Nayem Hossain - GitHub Profile README 🌟 -->
 
-<p align="center"> 
-  <img width="120" src="https://github.com/mdnayemhossain.png" alt="avatar" />
-</p>
 
 # Hi 👋, I'm Md Nayem Hossain
 
 ### 🚀 Full Stack Developer — Laravel enthusiast
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdnayemhossain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## 🧠 Tech Stack (All-in-One Table with Icons)
+## 🧠 Tools 
 
 <table align="center">
   <tr style="background-color:#1e1e2f; color:white; text-align:center;">
