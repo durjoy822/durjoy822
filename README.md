@@ -1,27 +1,11 @@
 <!-- 🌟 Md Nayem Hossain - GitHub Profile README 🌟 -->
 
 <h1 align="center">Hi 👋, I'm Md Nayem Hossain</h1>
-<h3 align="center">A Passionate Full Stack Developer | Laravel Enthusiast</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdnayemhossain&label=Profile%20views&color=0e75b6&style=flat" alt="mdnayemhossain" />
 </p>
-
----
-
-### 🚀 About Me
-
-- 💻 I’m a **Full Stack Developer** specializing in **Laravel**
-- 🌱 Currently learning **Advanced Laravel, API Integration, and Vue.js**
-- 🧠 I love clean code, scalable architecture, and creative UI
-- ⚙️ Experienced with **frontend & backend development**
-- 📫 Reach me at: **[your_email@example.com]**
-- 🌍 Portfolio: [your-portfolio-link.com](#)
-- 💬 Ask me about **Laravel, PHP, MySQL, REST APIs, and Frontend Tools**
-
----
-
-### 🧰 Tech Stack
 
 #### 💻 Backend
 <p align="left">
