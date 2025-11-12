@@ -1,9 +1,3 @@
-<!-- 🌟 Md Nayem Hossain - GitHub Profile README 🌟 -->
-
-<p align="center"> 
-  <img width="120" src="https://github.com/mdnayemhossain.png" alt="avatar" />
-</p>
-
 # Hi 👋, I'm Md Nayem Hossain
 
 ### 🚀 Full Stack Developer — Laravel enthusiast
@@ -91,11 +85,18 @@
 
 ## 📊 GitHub Analytics
 
+<table align="center">
+  <tr align="center">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mdnayemhossain&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnayemhossain&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnayemhossain&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnayemhossain&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnayemhossain&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
