@@ -1,57 +1,58 @@
 <!-- 🌟 Md Nayem Hossain - GitHub Profile README 🌟 -->
 
-<h1 align="center">Hi 👋, I'm Md Nayem Hossain</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#4e73df;">Md Nayem Hossain</span></h1>
 <h3 align="center">🚀 Full Stack Developer (Laravel Based)</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdnayemhossain&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mdnayemhossain&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🧠 Tech Stack
 
-<table align="center">
+<table align="center" width="100%" style="border-collapse: collapse; text-align:center;">
   <tr>
     <!-- Left Column -->
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 10px;">
 
       <h3>🎨 Frontend Development</h3>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=react,next,vue,alpinejs,tailwind,bootstrap,jquery,html,css" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue,alpinejs,jquery" />
       </p>
 
       <h3>🧪 Testing Frameworks</h3>
-      <p align="left">
+      <p align="center">
         <img src="https://img.shields.io/badge/Laravel%20Dusk-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/PestPHP-FF3366?style=for-the-badge&logo=pestphp&logoColor=white" />
         <img src="https://img.shields.io/badge/PHPUnit-777BB4?style=for-the-badge&logo=php&logoColor=white" />
       </p>
 
       <h3>🧰 Development Tools</h3>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=postman,vite,webpack,eslint,npm,yarn,axios" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=vite,webpack,postman,eslint,npm,yarn,axios,git,github,gitlab,vscode" />
       </p>
 
       <h3>⚙️ CI/CD & DevOps</h3>
-      <p align="left">
+      <p align="center">
         <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
       </p>
 
     </td>
 
     <!-- Right Column -->
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 10px;">
 
       <h3>🖥️ Backend Development</h3>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=laravel,php" />
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=php,laravel" />
         <img src="https://img.shields.io/badge/Livewire-E83E8C?style=for-the-badge&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/FilamentPHP-8B5CF6?style=for-the-badge&logo=php&logoColor=white" />
       </p>
 
       <h3>💾 Databases & Cloud Hosting</h3>
-      <p align="left">
+      <p align="center">
         <img src="https://skillicons.dev/icons?i=mysql" />
         <img src="https://img.shields.io/badge/cPanel-F46A2A?style=for-the-badge&logo=cpanel&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -60,10 +61,15 @@
         <img src="https://img.shields.io/badge/Laravel%20Forge-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
       </p>
 
-      <h3>🧩 Operating System</h3>
-      <p align="left">
+      <h3>🧩 Operating Systems</h3>
+      <p align="center">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      </p>
+
+      <h3>🎨 Design & Productivity</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=figma,photoshop,phpstorm" />
       </p>
 
     </td>
@@ -105,6 +111,9 @@
   </a>
   <a href="https://facebook.com/your-facebook-profile" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/your-instagram-profile" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
 
