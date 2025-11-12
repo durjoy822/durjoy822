@@ -7,40 +7,46 @@
   <img src="https://komarev.com/ghpvc/?username=mdnayemhossain&label=Profile%20views&color=0e75b6&style=flat" alt="mdnayemhossain" />
 </p>
 
-#### 💻 Backend
+---
+
+### 💻 Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite" alt="Backend Skills" />
 </p>
 
-#### 🎨 Frontend
+### 🎨 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,vue" alt="Frontend Skills" />
 </p>
 
-#### ⚙️ Tools & Platforms
+### ⚙️ Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma" alt="Tools" />
 </p>
 
 ---
 
-### 🧩 GitHub Stats
+## 🧩 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnayemhossain&show_icons=true&theme=radical" alt="Nayem's GitHub stats" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=mdnayemhossain&show_icons=true&theme=radical" alt="Nayem's GitHub stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnayemhossain&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnayemhossain&theme=radical" alt="Nayem's streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnayemhossain&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
@@ -61,4 +67,3 @@
 ---
 
 ⭐ **From [Md Nayem Hossain](https://github.com/mdnayemhossain)**
-
