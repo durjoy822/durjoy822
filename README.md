@@ -1,92 +1,56 @@
 <!-- 🌟 Md Nayem Hossain - GitHub Profile README 🌟 -->
 
-
 # Hi 👋, I'm Md Nayem Hossain
 
-### 🚀 Full Stack Developer — Laravel enthusiast
-## 🧠 Tools 
+### 🚀 Full Stack Developer | Laravel Enthusiast  
+
+---
+
+## 🛠️ Skills & Tools
 
 <table align="center">
   <tr style="background-color:#1e1e2f; color:white; text-align:center;">
-    <th>🚶 Frontend Development</th>
-    <th>🔙 Backend Development</th>
-    <th>🧪 Testing Frameworks</th>
-    <th>🪟 Operating System</th>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Dev Tools</th>
+    <th>Databases & Cloud</th>
   </tr>
   <tr align="center">
-    <td style="padding:10px; line-height:1.5;">
-      <img src="https://skillicons.dev/icons?i=react" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=nextjs" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=vue" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=alpinejs" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=tailwind" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=jquery" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=html" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=css" width="30"/>
+    <td style="padding:8px;">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,alpinejs,tailwind,bootstrap,jquery" width="30"/>
     </td>
-    <td style="padding:10px; line-height:1.5;">
-      <img src="https://skillicons.dev/icons?i=php" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=laravel" width="30"/> 
-      <img src="https://img.shields.io/badge/Livewire-E83E8C?style=flat-square&logo=laravel&logoColor=white" width="30"/> 
-      <img src="https://img.shields.io/badge/FilamentPHP-8B5CF6?style=flat-square&logo=php&logoColor=white" width="30"/>
+    <td style="padding:8px;">
+      <img src="https://skillicons.dev/icons?i=php,laravel,livewire,filament" width="30"/>
     </td>
-    <td style="padding:10px; line-height:1.5;">
-      <img src="https://img.shields.io/badge/Laravel%20Dusk-FF2D20?style=flat-square&logo=laravel&logoColor=white" width="30"/> 
-      <img src="https://img.shields.io/badge/PestPHP-FF3366?style=flat-square&logo=pestphp&logoColor=white" width="30"/> 
-      <img src="https://img.shields.io/badge/PHPUnit-777BB4?style=flat-square&logo=php&logoColor=white" width="30"/>
+    <td style="padding:8px;">
+      <img src="https://skillicons.dev/icons?i=git,vscode,postman,npm,yarn,axios,vite,webpack,eslint" width="30"/>
     </td>
-    <td style="padding:10px; line-height:1.5;">
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" width="30"/> 
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" width="30"/>
-    </td>
-  </tr>
-  <tr style="background-color:#f0f0f0; text-align:center;">
-    <th>👨‍💻 Development Tools</th>
-    <th>📱 Databases & Cloud Hosting</th>
-    <th>🔄 CI/CD & DevOps</th>
-    <th>🖥️ Others</th>
-  </tr>
-  <tr align="center">
-    <td style="padding:10px; line-height:1.5;">
-      <img src="https://skillicons.dev/icons?i=postman" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=vite" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=webpack" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=eslint" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=npm" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=yarn" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=axios" width="30"/>
-    </td>
-    <td style="padding:10px; line-height:1.5;">
-      <img src="https://skillicons.dev/icons?i=mysql" width="30"/> 
-      <img src="https://img.shields.io/badge/cPanel-F46A2A?style=flat-square&logo=cpanel&logoColor=white" width="30"/> 
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" width="30"/> 
-      <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" width="30"/> 
-      <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" width="30"/> 
-      <img src="https://img.shields.io/badge/Laravel%20Forge-FF2D20?style=flat-square&logo=laravel&logoColor=white" width="30"/>
-    </td>
-    <td style="padding:10px; line-height:1.5;">
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" width="30"/>
-    </td>
-    <td style="padding:10px; line-height:1.5;">
-      <img src="https://skillicons.dev/icons?i=git" width="30"/> 
-      <img src="https://skillicons.dev/icons?i=vscode" width="30"/> 
-      <img src="https://img.shields.io/badge/XAMPP-FFAA00?style=flat-square&logo=xampp&logoColor=white" width="30"/> 
-      <img src="https://img.shields.io/badge/Terminal-000000?style=flat-square&logo=windowsterminal&logoColor=white" width="30"/>
+    <td style="padding:8px;">
+      <img src="https://skillicons.dev/icons?i=mysql,aws,cpanel,digitalocean,hetzner,laravelforge" width="30"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdnayemhossain&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnayemhossain&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnayemhossain&theme=tokyonight" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mdnayemhossain&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnayemhossain&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnayemhossain&theme=tokyonight" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -94,17 +58,11 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mdnayemhossain" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="mailto:mdnayemhossain.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  &nbsp; &nbsp;
-  <a href="https://facebook.com/mdnayemhossain" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
-  </a>
+  <a href="https://linkedin.com/in/mdnayemhossain" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:mdnayemhossain.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/mdnayemhossain" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" /></a>
 </p>
 
 ---
