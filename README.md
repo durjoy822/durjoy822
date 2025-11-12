@@ -11,10 +11,10 @@
 
 ## 🧠 Tech Stack
 
-<table align="center" width="100%" style="border-collapse: collapse; border: 2px solid #555;">
+<table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
     <!-- Left Column -->
-    <td width="50%" valign="top" style="border: 2px solid #555; padding: 10px;">
+    <td width="50%" valign="top" style="padding: 10px;">
 
       <h3 align="center">🎨 Frontend Development</h3>
       <p align="center">
@@ -42,7 +42,7 @@
     </td>
 
     <!-- Right Column -->
-    <td width="50%" valign="top" style="border: 2px solid #555; padding: 10px;">
+    <td width="50%" valign="top" style="padding: 10px;">
 
       <h3 align="center">🖥️ Backend Development</h3>
       <p align="center">
@@ -81,18 +81,18 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table style="border-collapse: collapse;">
+  <table>
     <tr>
-      <td align="center" width="50%" style="border: 1px solid #444;">
-        <img src="https://github-readme-stats.vercel.app/api?username=mdnayemhossain&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=mdnayemhossain&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
       </td>
-      <td align="center" width="50%" style="border: 1px solid #444;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnayemhossain&layout=compact&theme=radical" alt="Top Languages" />
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnayemhossain&layout=compact&theme=tokyonight" alt="Top Languages" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" style="border: 1px solid #444;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnayemhossain&theme=radical" alt="GitHub Streak" />
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdnayemhossain&theme=tokyonight" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -103,13 +103,13 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://linkedin.com/in/mdnayemhossain" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:mdnayemhossain.dev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-  <a href="https://facebook.com/your-facebook-profile" target="_blank">
+  <a href="https://facebook.com/mdnayemhossain" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" />
   </a>
 </p>
