@@ -1,3 +1,26 @@
+<h1 align="center">Hi there 👋, I'm Md Nayem Hossain</h1>
+<h3 align="center">Fullstack Laravel Developer from Bangladesh 🇧🇩</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,sass,mysql,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Ishwardi,%20Pabna,%20Bangladesh-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/github/followers/durjoy822?style=flat-square&label=Followers" />
+</p>
+
+---
+
+### 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2F80ED/durjoy822" alt="durjoy822's Github chart" width="90%" />
+</p>
+
+---
+
 ### 📈 Contribution Graph
 
 <p align="center">
@@ -5,6 +28,7 @@
 </p>
 
 ---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -17,8 +41,6 @@
 </p>
 
 ---
-
-
 
 ### 🕒 Activity Overview
 
